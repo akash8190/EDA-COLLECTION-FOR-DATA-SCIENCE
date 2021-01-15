@@ -14,7 +14,7 @@ In this EDA COLLECTION we cover everything realted to eda and we perform eda on 
  7)  FLIGHT PRICE PREDICTION
  8)   FOREST FIRE
  9)    HR PREDICTION
- 10)   ZOMATO
+ 10)   ZOMATO resutrant review.
  
  
  
